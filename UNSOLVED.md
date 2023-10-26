@@ -1,10 +1,6 @@
 ## Unsolved  Problems
 **LeetCode problems to be solved**
 <details>
-  <summary>1-10</summary>
-  10. Regular Expression Matching
-</details>
-<details>
   <summary>11-20</summary>
   16. 3Sum Closest <br>
   18. 4Sum
